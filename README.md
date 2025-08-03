@@ -52,7 +52,6 @@ This repository contains a comprehensive analysis of **Procter & Gamble (P\&G)**
 * **Trend Analysis** (net sales, profitability, margins)
 * **Balance Sheet & Ratio Analysis**
 
-*
 
 ---
 
